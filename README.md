@@ -4,3 +4,11 @@
 - 🌱 Estou atualmente aprendendo JS, HTML, Python, Lua, CSS, etc.!
 - ⚒ Trabalho sozinho, não procuro colaborar com nínguem!
 - 😄 Pronomes: ele/dele/elu/delu
+
+
+### 🇬🇧🇺🇸 [Hello! I'm Lucas! 👋](https://luca4s.github.io/)
+
+- 🔭 I'm currently working on random projects that come to mind.
+- 🌱 I'm currently learning JS, HTML, Python, Lua, CSS and more!
+- ⚒ I'm a solo developer and don't look foward to collaborating with anyone!
+- 😄 Pronouns: he/him/they/them
