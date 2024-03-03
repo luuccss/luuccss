@@ -16,4 +16,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=luuccss&theme=dark&show_icons=true&hide=stars&layout=compact) ![](https://github-readme-stats.vercel.app/api/top-langs?username=luuccss&theme=dark&layout=compact&exclude_repo=omori-media-files) 
 
-![](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
