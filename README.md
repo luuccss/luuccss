@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=luuccss&theme=dark&show_icons=true&hide=stars&layout=compact) ![](https://github-readme-stats.vercel.app/api/top-langs?username=luuccss&theme=dark&layout=compact&exclude_repo=omori-media-files) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luuccss/luuccss/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luuccss/luuccss/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/luuccss/luuccss/output/github-contribution-grid-snake.svg" />
 </picture>
